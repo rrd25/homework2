@@ -93,6 +93,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+#wrapper {
+	background-color: white;
+	width: 960px;
+	height: 593px;
+}
+
+#menu {
+	background-color:#3f8252;
+	width: 960px;
+	height: 81px;
+	color: white;
+}
 
 
 
